@@ -24,6 +24,11 @@ The proposed scenario focuses on challenges such as:
 
 ---
 
+## Solution Preview
+
+![FMCG Sales Performance Dashboard](04-Solution-Design/Dashboard-Wireframe.png)
+
+
 ## Proposed Solution
 
 The proposed **Sales Performance & Distributor Analytics Platform** is designed to centralize sales performance information and provide management with an interactive view of key performance indicators.
